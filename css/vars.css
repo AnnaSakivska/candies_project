@@ -1,0 +1,19 @@
+html {
+    --black_color: #313335;
+    --main_grey_color: #6E7680;
+    --button_your_mail_color: #F0F4F7;
+    --placeholder_color: #A8ADB2;
+    --darkpink_color: #902156;
+    --whitepink_color: #AE2968;
+    --white_color: #FFF;
+    --footer_text_color: #A8B3C2;
+    --focust_a_color:#6F7781;
+    --green_color: #6BCA3E;
+    --whitegreen_color: rgba(45, 255, 22, 0.49);
+    --link_color: #E2EAF0;
+    --invalid_background: rgba(218, 67, 83, 0.1);
+    --invalid_border: rgba(218, 67, 83, 0.4);
+
+
+
+}
