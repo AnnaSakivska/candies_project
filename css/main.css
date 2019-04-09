@@ -233,13 +233,6 @@ input.input_mail:invalid {
   background: var(--button_your_mail_color);
 }
 
-/*.link_wrapper .link:hover {*/
-  /*background: var(--black_color:);*/
-/*}*/
-/*.link_wrapper .link_hover:hover {*/
-  /*background: var(--black_color:);*/
-/*}*/
-
 .link {
   width: 76px;
   height: 28px;
@@ -256,13 +249,6 @@ input.input_mail:invalid {
   letter-spacing: 0.1em;
   color: var(--black_color);
 }
-/*[placeholder="LINK"] {*/
-  /*font-family: Gilroy, serif;*/
-  /*font-size: 10px;*/
-  /*text-align: center;*/
-  /*letter-spacing: 0.1em;*/
-  /*color: var(--black_color);*/
-/*}*/
 
 .span_link_wrapper {
   font-family: Roboto, sans-serif;
