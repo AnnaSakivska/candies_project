@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffe9f9e2-8c13-4c8f-9cf6-2a2416a3eb55" name="Default Changelist" comment="" />
+    <list default="true" id="ffe9f9e2-8c13-4c8f-9cf6-2a2416a3eb55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-146">
@@ -22,13 +25,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="280" column="15" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+            <state relative-caret-position="160">
+              <caret line="216" selection-start-line="216" selection-end-line="216" />
               <folding>
-                <marker date="1554814503637" expanded="true" signature="1697:1749" ph="..." />
+                <marker date="1554815760985" expanded="true" signature="1705:1757" ph="..." />
               </folding>
             </state>
           </provider>
@@ -37,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/vars.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -46,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/fonts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" />
+            <state relative-caret-position="17">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -203,7 +206,7 @@
       <workItem from="1554414580937" duration="4700000" />
       <workItem from="1554644442773" duration="1109000" />
       <workItem from="1554741838503" duration="5016000" />
-      <workItem from="1554801653233" duration="12425000" />
+      <workItem from="1554801653233" duration="13465000" />
     </task>
     <task id="LOCAL-00001" summary="Generate project - fixed #6">
       <created>1554745686068</created>
@@ -247,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554814656351</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="a background of icons while hovering - fixed #4">
+      <created>1554814977050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554814977050</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86959000" />
+    <option name="totallyTimeSpent" value="87999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,7 +329,8 @@
     <MESSAGE value="Background is changing now while hovering #1" />
     <MESSAGE value="Arrow in the input field is pointed now in right way #2" />
     <MESSAGE value="Now inputs behave in different way #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now inputs behave in different way #3" />
+    <MESSAGE value="a background of icons while hovering - fixed #4" />
+    <option name="LAST_COMMIT_MESSAGE" value="a background of icons while hovering - fixed #4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/css-3.svg">
@@ -381,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -399,27 +403,34 @@
     <entry file="file://$PROJECT_DIR$/img/arrow-right.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/vars.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="280" column="15" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+        <state relative-caret-position="160">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
           <folding>
-            <marker date="1554814503637" expanded="true" signature="1697:1749" ph="..." />
+            <marker date="1554815760985" expanded="true" signature="1705:1757" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
     </entry>
