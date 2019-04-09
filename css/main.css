@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 
-ul {
+.icons, .css_frameworks, .additional_inf, .cooperation, .find_mistake {
   padding-left: 0;
 }
 
@@ -31,7 +31,7 @@ ul {
   align-items: flex-start;
 }
 
-h1 {
+.candies_h1 {
   font-family: 'Gilroy', sans-serif;
   font-weight: 400;
   font-size: 48px;
@@ -46,7 +46,7 @@ h1 {
   height: 49px;
 }
 
-p {
+.paragraph {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -73,7 +73,7 @@ p {
   position: relative;
   width: 470px;
   padding-top: 20px;
-  }
+}
 
 .input_mail {
   background: var(--button_your_mail_color);
@@ -83,7 +83,7 @@ p {
   border: 0;
   box-sizing: border-box;
   padding-left: 30px;
-  outline:none;
+  outline: none;
 }
 
 [placeholder="Ваш email"] {
@@ -102,8 +102,8 @@ p {
   border: 2px solid var(--white_color);
   box-sizing: border-box;
   border-radius: 22px;
-  outline:none;
-  }
+  outline: none;
+}
 
 .input_mail:hover {
   background: var(--link_color);
@@ -250,7 +250,7 @@ input.input_mail:invalid {
   background: var(--white_color);
   box-sizing: border-box;
   border-radius: 22px;
-  outline:none;
+  outline: none;
 }
 
 .link {
@@ -278,7 +278,7 @@ input.input_mail:invalid {
   font-size: 14px;
   text-align: center;
   color: var(--white_color);
-  outline:none;
+  outline: none;
 }
 
 .all_candies_button:hover {
@@ -296,7 +296,7 @@ input.input_mail:invalid {
 
 /* footer */
 
-footer {
+.footer {
   background-color: var(--black_color);
   width: 100%;
   heigth: 538px;
