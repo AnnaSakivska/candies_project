@@ -165,7 +165,7 @@ input.input_mail:invalid {
   margin-right: 20px;
 }
 
-a.icon:hover {
+.icons .icon:hover {
   background-color: var(--link_color);
 }
 
