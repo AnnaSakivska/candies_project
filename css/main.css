@@ -299,6 +299,7 @@ input.input_mail:invalid {
 .footer {
   background-color: var(--black_color);
   width: 100%;
+  height: 100%;
   heigth: 538px;
   max-width: 1440px;
 }
@@ -307,6 +308,7 @@ input.input_mail:invalid {
   display: flex;
   justify-content: space-around;
   margin: 0 172px 53px 155px;
+
 }
 
 .title_lis_footer {
@@ -367,7 +369,7 @@ input.input_mail:invalid {
   display: block;
   margin-top: 269px;
   padding-right: 116px;
-  width: 250px;
+  width: 100%;
 }
 
 .cooperation {
@@ -390,14 +392,12 @@ input.input_mail:invalid {
 }
 
 .span_codeguida {
-  margin: 24px 172px 0 780px;
+  margin-top: 24px;
+  margin-right: 172px;
+  margin-left: 780px;
+  margin-bottom: 20px;
   font-family: 'Roboto', sans-serif;
   font-size: 11px;
   color: var(--main_grey_color);
-  background: var(--black_color);
-}
-
-.codeguida_com {
-  padding-bottom: 16px;
 }
 
