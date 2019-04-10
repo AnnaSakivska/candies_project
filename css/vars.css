@@ -11,9 +11,10 @@ html {
     --green_color: #6BCA3E;
     --whitegreen_color: rgba(45, 255, 22, 0.49);
     --link_color: #E2EAF0;
-    --invalid_background: rgba(218, 67, 83, 0.1);
-    --invalid_border: rgba(218, 67, 83, 0.4);
-
-
-
+  --invalid_background: rgba(218, 67, 83, 0.1);
+  --invalid_border: rgba(218, 67, 83, 0.4);
+}
+body {
+  --main-font: 'Roboto', sans-serif;
+  --gilroy-font:'Gilroy', serif;
 }
